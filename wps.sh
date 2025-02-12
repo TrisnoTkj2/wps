@@ -73,4 +73,4 @@ systemctl restart mariadb
 # Pesan penutup
 echo -e "${GREEN}Instalasi WordPress selesai!${RESET}"
 echo -e "Akses melalui browser dengan membuka: http://$(hostname -I | awk '{print $1}')/wordpress"
-echo -e "${CYAN}Script by renjer biru IG @rachmatsleh_${RESET}"
+echo -e "${CYAN}Script trisno n jangan lupa subrek${RESET}"
